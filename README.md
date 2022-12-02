@@ -1,8 +1,6 @@
 # tomcat-web-app
 School project for Server Side Technologies class.
 
----
-
 # Features
 - User authentication
 - Downloading data from the server
